@@ -36,6 +36,7 @@ This list helps in the transition to management, with a progression from general
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
+- [Contents](#contents)
 - [Engineering to Management Transition](#engineering-to-management-transition)
 - [Building Teams](#building-teams)
 - [Roles](#roles)
@@ -113,6 +114,8 @@ This list helps in the transition to management, with a progression from general
   - [Burnout](#burnout)
 - [Setbacks and Failures](#setbacks-and-failures)
 - [Exits](#exits)
+- [Contributing](#contributing)
+- [Footnotes](#footnotes)
 
 <!-- mdformat-toc end -->
 
